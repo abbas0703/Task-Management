@@ -24,11 +24,11 @@ You can try the application live on Streamlit:
 ```bash
 git clone https://github.com/your-repository/task-management.git
 ```
-###2. Install Required Libraries
+### 2. Install Required Libraries
 ```bash
 pip install streamlit pandas sqlite3
 ```
-###3. Run the Application
+### 3. Run the Application
 ```python
 python -m streamlit run main.py
 ```
@@ -60,7 +60,7 @@ python -m streamlit run main.py
 task-management/
 │
 ├── task_management.py     # Main application script
-├── railway.db             # SQLite database for tasks
+├── task_management.db             # SQLite database for tasks
 └── README.md              # Project documentation
 ```
 ### Future Enhancements
