@@ -55,7 +55,7 @@ python -m streamlit run main.py
 3. Click on **"Delete Task"** to remove the task from the system.
 
 
-###Project Structure
+### Project Structure
 ```bash
 task-management/
 │
@@ -63,10 +63,10 @@ task-management/
 ├── railway.db             # SQLite database for tasks
 └── README.md              # Project documentation
 ```
-###Future Enhancements
+### Future Enhancements
 - User authentication to restrict access to task creation and modification.
 - Task priority levels (e.g., Low, Medium, High).
 - Email notifications for assigned tasks.
 
-###License
+### License
 This project is licensed under the MIT License. See the LICENSE file for more details.
